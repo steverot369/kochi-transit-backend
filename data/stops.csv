@@ -1,0 +1,40 @@
+stop_code,stop_name,transport_mode,latitude,longitude
+ALVA,Aluva,Metro,10.1100952,76.3495159
+PNCU,Pulinchodu,Metro,10.0950475,76.3467836
+CPPY,Companypady,Metro,10.0873039,76.3425681
+ATTK,Ambattukavu,Metro,10.0794208,76.3387004
+MUTT,Muttom,Metro,10.0727253,76.3337157
+KLMT,Kalamassery,Metro,10.058400,76.321926
+CCUV,Cochin University,Metro,10.0466793,76.3183086
+PDPM,Pathadipalam,Metro,10.0359805,76.314485
+EDAP,Edapally,Metro,10.0259599,76.3099692
+CGPP,Changampuzha Park,Metro,10.0152,76.3023
+PARV,Palarivattom,Metro,10.0029488,76.3059882
+JLSD,JLN Stadium,Metro,10.0002,76.2989
+KALR,Kaloor,Metro,9.9946,76.2916
+TNHL,Town Hall,Metro,9.9912,76.288
+MGRD,MG Road,Metro,9.9824891,76.2829173
+MACE,Maharajas College,Metro,9.9732,76.2851
+ERSH,Ernakulam South,Metro,9.968618,76.289452
+KVTR,Kadavanthra,Metro,9.9665809,76.2981877
+EMKM,Elamkulam,Metro,9.9722229,76.3001238
+VYTA,Vyttila,Metro,9.9636706,76.3181282
+THYK,Thykoodam,Metro,9.9575,76.3225
+PETT,Pettah,Metro,9.9524842,76.3302101
+VAKK,Vadakkekotta,Metro,9.952838,76.3394827
+SNJN,SN Junction,Metro,9.9519,76.3499
+TPHT,Tripunithura,Metro,9.9503,76.3516
+HC,HighCourt,Water Metro,9.984025,76.273024
+FK,Fort Kochi,Water Metro,9.967569,76.2421901
+SC,South Chittoor,Water Metro,10.03959,76.266586
+CH,Cheranalloor,Water Metro,10.053896,76.269094
+EL,Eloor,Water Metro,10.0796,76.3228192
+VP,Vypin,Water Metro,10.078103,76.2059731
+KK,Kakkanad,Water Metro,10.0076837,76.36403
+VTW,Vyttila WM,Water Metro,9.969,76.321
+FB001,Medical College,Feeder Bus,10.0534651,76.3559899
+FB002,Rajagiri,Feeder Bus,10.0116,76.3499
+FB003,Cusat,Feeder Bus,10.0396655,76.3279783
+FB004,Civil Station,Feeder Bus,10.0145743,76.3419953
+FB005,Infopark Phase 1,Feeder Bus,10.0102,76.3630
+FB006,Infopark Phase 2,Feeder Bus,10.0085873,76.3626984

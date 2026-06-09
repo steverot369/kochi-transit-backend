@@ -1,0 +1,12 @@
+route_code,route_name,transport_mode
+R1,Aluva - Tripunithura,Metro
+WM001,HighCourt - Fort Kochi,Water Metro
+WM002,South Chittoor - Cheranalloor,Water Metro
+WM003,South Chittoor - Eloor,Water Metro
+WM004,HighCourt - Vypin,Water Metro
+WM005,Vyttila - Kakkanad,Water Metro
+F001,Kalamassery Metro - Medical College,Feeder Bus
+F002,Kalamassery Metro - Rajagiri - Cusat,Feeder Bus
+F003,Kalamassery Metro - Civil Station - Water Metro - Infopark,Feeder Bus
+F004,Infopark - Water Metro - Civil Station - Kalamassery Metro,Feeder Bus
+F005,Tripunithura Metro - Infopark,Feeder Bus
