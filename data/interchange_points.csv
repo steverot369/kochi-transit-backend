@@ -1,0 +1,5 @@
+from_stop_code,to_stop_code,transfer_type,walking_distance,walking_minutes,remarks
+MGRD,HC,2,1100,14,Metro to Water Metro walking link
+VYTA,VTW,2,671,8,Metro to Water Metro interchange loop
+KK,FB005,2,302,4,Kakkanad jetty to Infopark Phase 1 bus
+KK,FB006,2,177,2,Kakkanad jetty to Infopark Phase 2 bus
